@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pick-your-emoji/static/css/main.4346e7df.chunk.css",
+    "main.js": "/pick-your-emoji/static/js/main.39f42861.chunk.js",
+    "main.js.map": "/pick-your-emoji/static/js/main.39f42861.chunk.js.map",
+    "runtime-main.js": "/pick-your-emoji/static/js/runtime-main.7a03ed18.js",
+    "runtime-main.js.map": "/pick-your-emoji/static/js/runtime-main.7a03ed18.js.map",
+    "static/js/2.03b97ce2.chunk.js": "/pick-your-emoji/static/js/2.03b97ce2.chunk.js",
+    "static/js/2.03b97ce2.chunk.js.map": "/pick-your-emoji/static/js/2.03b97ce2.chunk.js.map",
+    "index.html": "/pick-your-emoji/index.html",
+    "precache-manifest.a8b14ecc45207fffb5dfc69846372088.js": "/pick-your-emoji/precache-manifest.a8b14ecc45207fffb5dfc69846372088.js",
+    "service-worker.js": "/pick-your-emoji/service-worker.js",
+    "static/css/main.4346e7df.chunk.css.map": "/pick-your-emoji/static/css/main.4346e7df.chunk.css.map",
+    "static/js/2.03b97ce2.chunk.js.LICENSE.txt": "/pick-your-emoji/static/js/2.03b97ce2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a03ed18.js",
+    "static/js/2.03b97ce2.chunk.js",
+    "static/css/main.4346e7df.chunk.css",
+    "static/js/main.39f42861.chunk.js"
+  ]
+}
